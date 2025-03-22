@@ -8,6 +8,7 @@
 
 # Education
 Ph.D. in Mathematical Modelling and Computational Methods
+
 **National Aerospace University** 08/2005 – 02/2011 
 
 Master’s degree by specialty “Metrology and information-measuring systems“.
