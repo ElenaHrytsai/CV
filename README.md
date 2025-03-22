@@ -51,7 +51,7 @@ This project focused on creating a predictive model using Random Forest classifi
 The prediction model determines whether a client will complete a booking or leave the website.
 Additionally, the significance of each feature has been assessed to determine which one has the most significant impact on the target variable.
 
-![alt text](.https://github.com/ElenaHrytsai/CV/blob/assets/decision%20tree..jpg)
+![alt text](https://github.com/ElenaHrytsai/CV/blob/assets/decision%20tree..jpg)
 
 
 **[3. Belgium Traffic Signs Classification](https://github.com/ElenaHrytsai/Belgian-Traffic-Dataset/blob/main/belgiumTSC.ipynb)**
