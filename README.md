@@ -20,7 +20,7 @@ Project is focused on scraping and collecting customer feedback and reviewing da
 
 **Part 2** The analysis of the customers reviews and generating the Word cloud.
 
-![alt text](https://github.com/ElenaHrytsai/CV/assets/Wordcloud..png)
+![alt text](https://github.com/ElenaHrytsai/CV/blob/main/assets/Wordcloud..png)
 
 **[2. Customer booking prediction](https://github.com/ElenaHrytsai/Customer-booking-prediction)**
 
@@ -28,13 +28,13 @@ This project focused on creating a predictive model using Random Forest classifi
 The prediction model determines whether a client will complete a booking or leave the website.
 Additionally, the significance of each feature has been assessed to determine which one has the most significant impact on the target variable.
 
-![alt text](https://github.com/ElenaHrytsai/CV/assets/decision tree..jpg)
+![alt text](https://github.com/ElenaHrytsai/CV/blob/main/assets/decision tree..jpg)
 
 **[3. Belgium Traffic Signs Classification](https://github.com/ElenaHrytsai/Belgian-Traffic-Dataset/blob/main/belgiumTSC.ipynb)**
 
 This projectfocused on building a deep learning model to recognize traffic signs.
 
-![alt text](https://github.com/ElenaHrytsai/CV/assets/Some-example-images-from-the-BelgiumTS-for-Classification-dataset..png)
+![alt text](https://github.com/ElenaHrytsai/CV/blob/main/assets/Some-example-images-from-the-BelgiumTS-for-Classification-dataset..png)
 
 # Certificates
 - "Machine Learning" by Andrew Ng (Coursera)
