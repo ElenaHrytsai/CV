@@ -42,7 +42,7 @@ Project is focused on scraping and collecting customer feedback and reviewing da
 
 **Part 2** The analysis of the customers reviews and generating the Word cloud.
 
-![alt text](ElenaHrytsai.github.io/CV/blob/main/assets/Wordcloud..png)
+![alt text](https://github.com/ElenaHrytsai/CV/blob/main/assets/Wordcloud..png)
 
 
 **[2. Customer booking prediction](https://github.com/ElenaHrytsai/Customer-booking-prediction)**
